@@ -1,5 +1,5 @@
 a=2
 b=3
-concantention =a+b
+concantention = a+b
 print(concantention)
 
